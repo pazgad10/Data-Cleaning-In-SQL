@@ -7,4 +7,5 @@ In this project you'll see my skills on data cleaning.
  * I separated address into columns of street, city and state
  * I made things more clear to read
  * I Removed duplicates & droped out unused columns
+ 
 The xlsx file is the database which i took my info from.
